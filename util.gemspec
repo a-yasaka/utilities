@@ -5,7 +5,7 @@ require 'util/version'
 
 Gem::Specification.new do |spec|
   spec.name          = "util"
-  spec.version       = Util::VERSION
+  spec.version       = Util::0.0.2
   spec.authors       = ["a-yasaka"]
   spec.email         = ["a-yasaka@hoge.com"]
 
